@@ -5,7 +5,7 @@ A simple train schedule application that incorporates Firebase to host train dat
 A train schedule application that incorporates Firebase to host train data including: train time, frequency of train, train name and destination. A user can submit this information on the application and it is saved to Firebase. The application retrieves and manipulates this information with the help of Moment.js. The application does update the current time and the arrival time and minutes to arrival on its own with out refreshing the screen.
 
 ## The App
-![App Screenshot](https://github.com/ambujbhog/Train-Scheduler/blob/master/screenshot.png)
+![App Screenshot](https://github.com/ambujbhog/Train-Scheduler/blob/master/app-screenshot.png)
 
 ## Technologies Used
 
